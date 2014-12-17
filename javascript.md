@@ -177,7 +177,7 @@ if (test) {
     // ...
 }
 
-function foo() {
+function foo () {
     // ...
 }
 
@@ -199,7 +199,7 @@ if (test) {
     // ...
 }
 
-function foo() {
+function foo () {
     // ...
 }
 ```
@@ -532,7 +532,7 @@ var FooClass = inherit({
     // destructors are placed right after the constructor
     destruct: function () {},
 
-    someMethod: function() {}
+    someMethod: function () {}
 });
 ```
 
